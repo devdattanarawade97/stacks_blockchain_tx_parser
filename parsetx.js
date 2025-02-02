@@ -19,6 +19,8 @@ export async function parseTransactionValues(tx) {
         isStakingPositions: false
     };
 
+
+    
     
     console.log("tx: ", tx);
 
