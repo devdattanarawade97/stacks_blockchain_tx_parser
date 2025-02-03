@@ -21,7 +21,6 @@ export async function parseTransactionValues(tx) {
 
 
     
-    
     console.log("tx: ", tx);
 
     if (!tx?.contract_call) {
